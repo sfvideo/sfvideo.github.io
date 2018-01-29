@@ -1,0 +1,2 @@
+webpackJsonp([0xc12cc958a7b5],{366:function(e,o){e.exports={data:{allAirtable:{edges:[{node:{id:"Airtable Meetups recJGy9kVtC8LRyFT",Date:"2018-02-23T02:30:00.000Z",Notes:"### Description\n\nComing Soon",Location:["reczTaYfoCXxDmPnM"],City:["San Francisco"],TalkNames:["Video on the move: Mobile phones and video","Building a Mind-Controlled HTML5 Video"],Speakers:["Anton Kast","Alex Castillo"],URL:"https://www.meetup.com/SF-Video-Technology/events/knkfqmyxdbdc/"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---next-meetup-a8a2a88b63972302847e.js.map
